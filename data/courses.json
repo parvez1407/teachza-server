@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_seat": 50,
+    "title": "Complete Web Design",
+    "advisor": {
+      "name": "Rakib Khan",
+      "course_duration": "6-Months",
+      "img": "https://image.shutterstock.com/image-photo/serious-successful-arabian-businessman-formal-260nw-1879913899.jpg"
+    },
+    "thumbnail_url": "https://img.freepik.com/free-vector/set-modern-website-landing-page-design-templates-mobile-phone-tablet-with-gallery-articles-contact-form-flat-isolated-illustration_1284-60948.jpg?w=2000",
+    "image_url": "https://img.freepik.com/free-vector/cartoon-web-design-landing-page_52683-70880.jpg?w=2000",
+    "details": "A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn various techniques, tools and programming languages in order to create and maintain web pages. There is an array of courses in this field ranging from certificate and Diploma courses to UG, PG and PGDM programs. Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client (this is for outstanding performer those will prove themselves to us and can take pressure to complete real project)"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_seat": 40,
+    "title": "Complete Web Development",
+    "advisor": {
+      "name": "Rakib Khan",
+      "course_duration": "6-Months",
+      "img": "https://image.shutterstock.com/image-photo/serious-successful-arabian-businessman-formal-260nw-1879913899.jpg"
+    },
+    "thumbnail_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200214165928/Web-Development-Course-Thumbnail.jpg",
+    "image_url": "https://ares.decipherzone.com/blog-manager/uploads/banner_webp_bea99db8-7dba-41e7-941c-de4b61cc1650.webp",
+    "details": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills. By the end of this course you’ll be able to describe the structure and functionality of the world wide web, create dynamic web pages using a combination of HTML, CSS, and JavaScript, apply essential programming language concepts when creating HTML forms, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you’ll be able to develop a working model for creating your own personal or business websites in the future and be fully prepared to take the next step in a more advanced web development or design course or specialization."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_seat": 40,
+    "title": "Graphic Design",
+    "advisor": {
+      "name": "Md. Suton Khan",
+      "course_duration": "6-Months",
+      "img": "https://image.shutterstock.com/image-photo/serious-successful-arabian-businessman-formal-260nw-1879913899.jpg"
+    },
+    "thumbnail_url": "https://www.crucial.com/content/dam/crucial/articles/about-graphic-design/graphic-design-hardware-whats-right-for-you/desk-with-computer-for-graphic-design.jpg.transform/small-jpg/img.jpg",
+    "image_url": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
+    "details": "Graphic Design is the process of creating visual content to communicate information/ messages to the masses. Considered to be a sub-set of Communication Design, Graphic Design is used to create visual content using elements such as photographs, colors, typography, illustrations, and icons. Considered to be an art form first used around 17,000 years ago to create cave paintings, Graphic Design is now used for creating logos, design used in books, newspapers and magazines, advertising, product packaging, signage, and the likes. Graphic Designers often have enough freedom to create their content without restrictions related to programming, resolution, or speed."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_seat": 40,
+    "title": "Motion Graphic",
+    "advisor": {
+      "name": "Md. Suton Khan",
+      "course_duration": "6-Months",
+      "img": "https://image.shutterstock.com/image-photo/serious-successful-arabian-businessman-formal-260nw-1879913899.jpg"
+    },
+    "thumbnail_url": "https://your-comics.com/media/image/img_news_10_2_lang52.jpg",
+    "image_url": "https://unimage.fr/wp-content/uploads/2020/12/20839060.jpg",
+    "details": "Motion Graphics involves creating graphics and moving them in time and space to achieve an intended goal or tell a story. The motion graphic elements are placed in a sequence of frames to create an illusion of motion. Unlike other forms of animation, animated motion graphics primarily use graphics and type. Motion graphics is animation, but with text as a major component. Essentially, it’s animated graphic design. Ever since motion graphics first entered the scene, there’s been a debate about the line between them and full animation. The opening credits of Hitchcock’s Psycho is an early example of motion graphics, where the marriage of sound, motion, and graphic design come together exceptionally well."
+  }
+]
