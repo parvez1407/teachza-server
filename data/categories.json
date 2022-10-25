@@ -5,15 +5,15 @@
   },
   {
     "id": "02",
-    "name": "Programming"
-  },
-  {
-    "id": "03",
     "name": "Design"
   },
   {
-    "id": "04",
+    "id": "03",
     "name": "Marketing"
+  },
+  {
+    "id": "04",
+    "name": "Languages"
   },
   {
     "id": "05",
@@ -21,6 +21,6 @@
   },
   {
     "id": "06",
-    "name": "Communication"
+    "name": "ProgrammingCommunication"
   }
 ]

@@ -38,7 +38,7 @@
     "advisor": {
       "name": "Md. Suton Khan",
       "course_duration": "6-Months",
-      "img": "https://image.shutterstock.com/image-photo/serious-successful-arabian-businessman-formal-260nw-1879913899.jpg"
+      "img": "https://image.shutterstock.com/image-photo/young-business-man-wearing-formal-260nw-1811281555.jpg"
     },
     "thumbnail_url": "https://www.crucial.com/content/dam/crucial/articles/about-graphic-design/graphic-design-hardware-whats-right-for-you/desk-with-computer-for-graphic-design.jpg.transform/small-jpg/img.jpg",
     "image_url": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
@@ -53,10 +53,100 @@
     "advisor": {
       "name": "Md. Suton Khan",
       "course_duration": "6-Months",
-      "img": "https://image.shutterstock.com/image-photo/serious-successful-arabian-businessman-formal-260nw-1879913899.jpg"
+      "img": "https://image.shutterstock.com/image-photo/young-business-man-wearing-formal-260nw-1811281555.jpg"
     },
     "thumbnail_url": "https://your-comics.com/media/image/img_news_10_2_lang52.jpg",
     "image_url": "https://unimage.fr/wp-content/uploads/2020/12/20839060.jpg",
     "details": "Motion Graphics involves creating graphics and moving them in time and space to achieve an intended goal or tell a story. The motion graphic elements are placed in a sequence of frames to create an illusion of motion. Unlike other forms of animation, animated motion graphics primarily use graphics and type. Motion graphics is animation, but with text as a major component. Essentially, it’s animated graphic design. Ever since motion graphics first entered the scene, there’s been a debate about the line between them and full animation. The opening credits of Hitchcock’s Psycho is an early example of motion graphics, where the marriage of sound, motion, and graphic design come together exceptionally well."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_seat": 60,
+    "title": "Digital Marketing",
+    "advisor": {
+      "name": "Rahat Chowdhury",
+      "course_duration": "4-Months",
+      "img": "https://image.shutterstock.com/image-photo/portrait-his-he-nice-attractive-260nw-1811720200.jpg"
+    },
+    "thumbnail_url": "https://i.ytimg.com/vi/H73YMa-pQaA/maxresdefault.jpg",
+    "image_url": "https://cdn.utaustinbootcamps.com/wp-content/uploads/sites/119/2020/11/DM_blog_post_image_03.jpg",
+    "details": "Digital marketing is the best & trending way of marketing nowadays. It is all about reaching customers via various digital channels like search engines, social media, email, and many more. Digital Marketing course content will make sure you master the art of online marketing by reaching your target audiences in a more powerful and accurate way through several digital channels, to impress and engage with them for converting them to customers. It helps you to develop and manage marketing techniques for your company website. You will be certified by DMCA certification after completing the digital marketing course. The DMCA full form is Digital Marketing Certified Associate. Interested candidates can also pursue Digital Marketing Diploma Course."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_seat": 60,
+    "title": "Get Certified in Social Media Strategy",
+    "advisor": {
+      "name": "Rahat Chowdhury",
+      "course_duration": "4-Months",
+      "img": "https://image.shutterstock.com/image-photo/portrait-his-he-nice-attractive-260nw-1811720200.jpg"
+    },
+    "thumbnail_url": "https://uploads-ssl.webflow.com/5cf10538b2a819c7169a882e/5d97256fe6773aed556b17ba_social-media-marketing-resources.jpg",
+    "image_url": "https://zamzamdigital.com/wp-content/uploads/2021/07/How-to-Create-a-Social-Media-Marketing-Strategy-for-Your-Business.jpg",
+    "details": "The newly updated Social Media Certification will help you shape the conversation around your business, build loyalty, and attract new customers and partners; it's the only social media training you'll ever need. Building an effective social media strategy will expand all of your other inbound marketing efforts as well as build brand awareness, drive word of mouth, and attract buyers. In other words, social media is the ultimate way to do inbound marketing. Join HubSpot Academy professor, Crystal King, and invest in your business' growth and your career by learning how to: build an effective social media strategy, set up social listening and moderation, create social content, extend your reach, excel in digital advertising, measure ROI, and more."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_seat": 50,
+    "title": "English",
+    "advisor": {
+      "name": "Abul Kalam",
+      "course_duration": "4-Months",
+      "img": "https://image.shutterstock.com/image-photo/happy-successful-adult-business-lady-260nw-1932263945.jpg"
+    },
+    "thumbnail_url": "https://coachify.co.in/wp-content/uploads/2020/08/335-Complete-English-Course-Beginner-Level.jpg",
+    "image_url": "https://btlm.edu.az/wp-content/uploads/2019/09/Evening_English_1-1150x647.jpg",
+    "details": "English Language course is ideal for analytical minds who want to delve into the science of language - an everyday phenomenon which impacts our lives on an individual and a global scale. English Language covers the history of the English language and the variation between English dialects in the UK and further afield. You will acquire the skills required for analytical language study alongside the means to apply those skills to the study of historical and present-day English. In addition, you will practice key transferable skills, such as essay writing and how to give a presentation. Our strengths include, among others, historical linguistics, sociolinguistics, psycholinguistics and child language acquisition, forensic linguistics, phonetics and phonology, morphology, syntax, semantics and pragmatics, and quantitative corpus-based approaches."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_seat": 50,
+    "title": "German Language",
+    "advisor": {
+      "name": "Abul Kalam",
+      "course_duration": "4-Months",
+      "img": "https://image.shutterstock.com/image-photo/happy-successful-adult-business-lady-260nw-1932263945.jpg"
+    },
+    "thumbnail_url": "https://thumbs.dreamstime.com/b/learn-german-grammar-verbs-nouns-speaking-practice-100045864.jpg",
+    "image_url": "https://www.studying-in-germany.org/wp-content/uploads/2018/08/learn-german-language-with-online-courses.jpg",
+    "details": "The German Language is one of the ten most spoken dialects within the world. About 185 million people around the globe speak in the German language. One can still study in Germany, even if they don’t know the language accurately. But if you understand the language, it can make everyday life a lot easier and help you involve yourself in the country. Apart from that, foreign languages are also frequently inquired by companies. There are many ways to learn the German Language. Whether you learn the usual way by joining a category, or whether you team with a German tandem partner or flatmate, learning German is often great fun and hugely beneficial. German is the arch of a world-class education. 18% of the world’s books are issued in German, and relatively few of those ever appear in English translation. German is the second most used scientific language in the world. It’s also a bridge language of Central and Eastern Europe. German fluency in India has opened job opportunities in medicine and healthcare, logistics, automobile, education, power and utility, mass media, entertainment, tourism, financial services, outsourcing, etc. Knowing the language fluently, it can help your career in many of International corporations like BMW, Volkswagen, Bosch, Daimler, Adidas, Allianz, Deutsche Bank, Siemens, SAP, Lufthansa, etc."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_seat": 50,
+    "title": "Customer Service",
+    "advisor": {
+      "name": "Najmul Hasan",
+      "course_duration": "4-Months",
+      "img": "https://image.shutterstock.com/image-photo/happy-asian-office-worker-formal-260nw-1069103849.jpg"
+    },
+    "thumbnail_url": "https://peopledynamics.co/wp-content/uploads/2017/09/170509-Customer-Service-Skills-That-Matter.png",
+    "image_url": "https://www.socoselling.com/wp-content/uploads/8-Vital-Customer-Service-Skills-You-Need-To-Have-In-2021-01-750x393.png",
+    "details": "Customer service training is the coaching that employees receive with the goal of improving support and satisfaction among customers. A strong customer service training program includes exercises for improving interpersonal communication, product knowledge, conflict resolution, crisis management, and more. Any employee that interacts and deals with customers is eligible for customer service training. And given how your customers are your best growth opportunity, every employee should be working hard to keep them happy — whether from the position of a marketer, executive assistant, or customer service representative."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6j",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_seat": 50,
+    "title": "Learning Python Fun and Flexible",
+    "advisor": {
+      "name": "Shahadat Hossain",
+      "course_duration": "6-Months",
+      "img": "https://image.shutterstock.com/image-photo/young-confident-handsome-man-full-260nw-1416442523.jpg"
+    },
+    "thumbnail_url": "https://www.cbitss.in/wp-content/uploads/2019/02/python-training-course-in-chandigarh.jpg",
+    "image_url": "https://netclassroom.in/wp-content/uploads/2020/04/python-course.jpeg",
+    "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems. Python is powerful yet easy to read, making it highly applicable at major tech companies and a great first language to learn. Plus, you can learn this language on your schedule from any device. You will build a portfolio of work to showcase your skills when opportunity comes knocking."
   }
 ]
