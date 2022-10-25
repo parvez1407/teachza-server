@@ -2,6 +2,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "category_id": "01",
+    "category_name": "Web-Design/Dev",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_seat": 50,
     "title": "Complete Web Design",
@@ -10,13 +11,14 @@
       "course_duration": "6-Months",
       "img": "https://image.shutterstock.com/image-photo/serious-successful-arabian-businessman-formal-260nw-1879913899.jpg"
     },
-    "thumbnail_url": "https://img.freepik.com/free-vector/set-modern-website-landing-page-design-templates-mobile-phone-tablet-with-gallery-articles-contact-form-flat-isolated-illustration_1284-60948.jpg?w=2000",
+    "thumbnail_url": "https://businesstimenow.com/wp-content/uploads/2022/04/0_4DpFVUP_VfkhzSIL.png",
     "image_url": "https://img.freepik.com/free-vector/cartoon-web-design-landing-page_52683-70880.jpg?w=2000",
     "details": "A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn various techniques, tools and programming languages in order to create and maintain web pages. There is an array of courses in this field ranging from certificate and Diploma courses to UG, PG and PGDM programs. Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client (this is for outstanding performer those will prove themselves to us and can take pressure to complete real project)"
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "category_id": "01",
+    "category_name": "Web-Design/Dev",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_seat": 40,
     "title": "Complete Web Development",
@@ -32,6 +34,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
     "category_id": "02",
+    "category_name": "Design & Multimedia",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_seat": 40,
     "title": "Graphic Design",
@@ -47,6 +50,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
     "category_id": "02",
+    "category_name": "Design & Multimedia",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_seat": 40,
     "title": "Motion Graphic",
@@ -62,6 +66,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
     "category_id": "03",
+    "category_name": "Marketing",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_seat": 60,
     "title": "Digital Marketing",
@@ -77,6 +82,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
     "category_id": "03",
+    "category_name": "Marketing",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_seat": 60,
     "title": "Get Certified in Social Media Strategy",
@@ -92,6 +98,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
     "category_id": "04",
+    "category_name": "Languages",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_seat": 50,
     "title": "English",
@@ -107,6 +114,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6h",
     "category_id": "04",
+    "category_name": "Languages",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_seat": 50,
     "title": "German Language",
@@ -122,6 +130,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
     "category_id": "05",
+    "category_name": "Communication",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_seat": 50,
     "title": "Customer Service",
@@ -137,6 +146,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6j",
     "category_id": "06",
+    "category_name": "Programming",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_seat": 50,
     "title": "Learning Python Fun and Flexible",

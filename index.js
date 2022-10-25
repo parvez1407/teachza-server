@@ -28,9 +28,9 @@ app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
     const selectedCourses = courses.find(course => course._id === id);
     res.send(selectedCourses);
-})
+});
 
 
 app.listen(port, () => {
     console.log('Teachza courses server running', port)
-})
+});
